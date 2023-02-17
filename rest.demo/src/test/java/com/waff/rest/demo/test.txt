@@ -1,0 +1,24 @@
+Spring Boot: Spring Boot ist ein Framework zur einfachen Erstellung von Microservices und Web-Anwendungen in Java.
+Es bietet eine Vielzahl von Funktionen und Werkzeuge, um die Entwicklung von Anwendungen zu vereinfachen und zu beschleunigen.
+
+REST: REST steht für "Representational State Transfer". 
+Es ist ein Architekturstil für die Entwicklung von Web-Diensten, der eine einfache und flexible Kommunikation 
+zwischen Anwendungen ermöglicht.
+RESTful-APIs nutzen das HTTP-Protokoll, um Daten zu übertragen und zu manipulieren.
+
+ORM: ORM steht für "Object-Relational Mapping". 
+Es ist ein Konzept, das die Übersetzung von Daten aus einer relationalen Datenbank in Objekte 
+einer Programmiersprache und umgekehrt ermöglicht.
+Hierbei werden Abstraktionen bereitgestellt, um mit der Datenbank zu arbeiten, ohne dass Sie direkt SQL-Code schreiben müssen.
+
+HTTP: HTTP steht für "Hypertext Transfer Protocol".
+Es ist das Protokoll, das verwendet wird, um Daten im World Wide Web zu übertragen. 
+HTTP definiert, wie Daten zwischen einem Client (z.B. einem Web-Browser) und einem Server ausgetauscht werden.
+
+MVC: MVC steht für "Model-View-Controller". 
+Es ist ein Entwurfsmuster für die Entwicklung von Anwendungen, das die Trennung von Daten, Benutzeroberfläche und Geschäftslogik ermöglicht. 
+Hierbei werden Daten im Modell gespeichert, die Benutzeroberfläche wird durch die Ansicht dargestellt und 
+der Controller verwaltet die Interaktion zwischen Modell und Ansicht.
+
+CRUD: CRUD steht für "Create, Read, Update, Delete".
+Diese Operationen sind die Grundlage für die Datenverwaltung in einer Datenbank.
